@@ -5,14 +5,15 @@
  * @package     Accudio_Headless_Menus
  *
  * @wordpress-plugin
- * Plugin Name:       Accudio Headless Menus
- * Plugin URI:        https://accudio.com
- * Description:       Adds menu endpoints on WP REST API
- * Version:           1.0.0
- * Author:            Alistair Shepherd — Accudio
- * Author URI:        https://accudio.com/about
- * License:           MPL-2.0
- * License URI:       https://www.mozilla.org/en-US/MPL/2.0/
+ * Plugin Name:         Accudio Headless Menus
+ * Plugin URI:          https://accudio.com
+ * Description:         Adds menu endpoints on WP REST API
+ * Version:             1.0.0
+ * Author:              Alistair Shepherd — Accudio
+ * Author URI:          https://accudio.com/about
+ * License:             MPL-2.0
+ * License URI:         https://www.mozilla.org/en-US/MPL/2.0/
+ * GitHub Plugin URI:   Accudio/accudio-headless-menus
  */
 
 class Accudio_Headless_Menus {
